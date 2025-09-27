@@ -7,7 +7,7 @@
   </samp>
 </div>
 <br>
-     <img align="right"src="https://i.imgur.com/gZYe30v.png" alt="mago negro card" width="260" />
+     <img align="right"src="https://i.imgur.com/gZYe30v.png" alt="mago negro card" width="250" />
 <div align="center">
   <!-- Status -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pamyydev&theme=jolly" width="170" />
