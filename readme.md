@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6A0DAD"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=78C850"/>
 <div align="center">
 
   <samp>
     <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=6A0DAD&width=435&lines=My+name+is+Pamela.+I'm+22+years+old;I%E2%80%99m+a+Backend+Cloud+Developer+Intern+;I+study+Information+Systems+at+Uninove" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=4E8234&width=435&lines=My+name+is+Pamela.+I'm+22+years+old;I%E2%80%99m+a+Backend+Cloud+Developer+Intern+;I+study+Information+Systems+at+Uninove" alt="Typing SVG" /></a>
   </samp>
 </div>
 <br>
-     <img align="right"src="https://i.imgur.com/gZYe30v.png" alt="mago negro card" width="205" />
+     <img align="right"src="https://imgur.com/nOONdYA.png" alt="mago negro card" width="205" />
 <div align="center">
   <!-- Status -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pamyydev&theme=jolly" width="201" />
@@ -28,10 +28,10 @@
 
 <br>
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=fff)](https://pamynewportfolio.vercel.app/)
-  [![GitHub](https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/pamyydev)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/pamydev/)
-  [![Linktree](https://img.shields.io/badge/Linktree-6A0DAD?style=for-the-badge&logo=linktree&logoColor=fff)](https://linktr.ee/pamydev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-78C850?style=for-the-badge&logo=vercel&logoColor=fff)](https://pamynewportfolio.vercel.app/)
+  [![GitHub](https://img.shields.io/badge/GitHub-4E8234?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/pamyydev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-78C850?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/pamydev/)
+  [![Linktree](https://img.shields.io/badge/Linktree-4E8234?style=for-the-badge&logo=linktree&logoColor=fff)](https://linktr.ee/pamydev)
 </div>
 
 </details>
@@ -72,4 +72,4 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4E8234&height=100&section=footer"/>
