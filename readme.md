@@ -9,19 +9,19 @@
 <br>
 <div align="center">
   <!-- Status -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pamyydev&theme=jolly" width="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pamyydev&theme=jolly" width="300" />
 
   <!-- Top Languages Repo -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pamyydev&theme=jolly" width="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pamyydev&theme=jolly" width="300" />
 
   <!-- Top Languages Commits (UTC+8) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pamyydev&theme=jolly" width="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pamyydev&theme=jolly" width="300" />
 
   <!-- Profile Details -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pamyydev&theme=jolly" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pamyydev&theme=jolly" width="609" />
 
   <!-- Productive Time -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pamyydev&theme=jolly&utcOffset=8" width="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pamyydev&theme=jolly&utcOffset=8" width="300" />
 </div>
 
 <br>
