@@ -10,17 +10,33 @@
      <img align="right"src="https://i.imgur.com/gZYe30v.png" alt="mago negro card" width="260" />
 <div align="center">
   <!-- Status -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pamyydev&theme=jolly" width="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pamyydev&theme=jolly" width="170" />
 
   <!-- Top Languages Repo -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pamyydev&theme=jolly" width="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pamyydev&theme=jolly" width="170" />
 
   <!-- Top Languages Commits (UTC+8) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pamyydev&theme=jolly" width="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pamyydev&theme=jolly" width="170" />
 
   <!-- Profile Details -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pamyydev&theme=jolly" width="500" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pamyydev&theme=jolly" width="530" />
 </div>
+
+<br>
+
+<div align="center" >
+
+<br>
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-ff79c6?style=for-the-badge&logo=vercel&logoColor=fff)](https://pamynewportfolio.vercel.app/)
+  [![GitHub](https://img.shields.io/badge/GitHub-ff79c6?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/pamyydev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff79c6?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/pamydev/)
+  [![Linktree](https://img.shields.io/badge/Linktree-ff79c6?style=for-the-badge&logo=linktree&logoColor=fff)](https://linktr.ee/pamydev)
+</div>
+
+</details>
+
+<br>
 
 
 <br>
@@ -53,36 +69,6 @@
   <!-- Design / Others -->
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
-
-<br>
-<br>
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info & Contact</b>
-      </samp>
-  </summary>
-  
-<br>
-
-
-<div align="center" >
-  <samp>
-    <b>Contact me:</b>
-  </samp>
-<br>
-  
- 
-
-<br>
-
-  [![Portfolio](https://img.shields.io/badge/Portfolio-ff79c6?style=for-the-badge&logo=vercel&logoColor=fff)](https://pamynewportfolio.vercel.app/)
-  [![GitHub](https://img.shields.io/badge/GitHub-ff79c6?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/pamyydev)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff79c6?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/pamydev/)
-  [![Linktree](https://img.shields.io/badge/Linktree-ff79c6?style=for-the-badge&logo=linktree&logoColor=fff)](https://linktr.ee/pamydev)
-</div>
-
-</details>
 
 <br>
 
