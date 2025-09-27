@@ -19,7 +19,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pamyydev&theme=jolly" width="200" />
 
   <!-- Profile Details -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pamyydev&theme=jolly" width="550" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pamyydev&theme=jolly" width="580" />
 </div>
 
 <br>
