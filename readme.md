@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff79c6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6A0DAD"/>
 <div align="center">
 
   <samp>
     <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=F713BD&width=435&lines=My+name+is+Pamela.+I'm+22+years+old;I%E2%80%99m+a+Backend+Cloud+Developer+Intern+;I+study+Information+Systems+at+Uninove" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=6A0DAD&width=435&lines=My+name+is+Pamela.+I'm+22+years+old;I%E2%80%99m+a+Backend+Cloud+Developer+Intern+;I+study+Information+Systems+at+Uninove" alt="Typing SVG" /></a>
   </samp>
 </div>
 <br>
@@ -28,10 +28,10 @@
 
 <br>
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-ff79c6?style=for-the-badge&logo=vercel&logoColor=fff)](https://pamynewportfolio.vercel.app/)
-  [![GitHub](https://img.shields.io/badge/GitHub-ff79c6?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/pamyydev)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff79c6?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/pamydev/)
-  [![Linktree](https://img.shields.io/badge/Linktree-ff79c6?style=for-the-badge&logo=linktree&logoColor=fff)](https://linktr.ee/pamydev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=fff)](https://pamynewportfolio.vercel.app/)
+  [![GitHub](https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/pamyydev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/pamydev/)
+  [![Linktree](https://img.shields.io/badge/Linktree-6A0DAD?style=for-the-badge&logo=linktree&logoColor=fff)](https://linktr.ee/pamydev)
 </div>
 
 </details>
@@ -72,4 +72,4 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer"/>
