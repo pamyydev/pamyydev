@@ -1,28 +1,27 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff79c6"/>
 <div align="center">
-  <b>Backend & Cloud Developer</b>
+
   <samp>
-      <br>
-      Hi there! I'm <b>Pamela Miranda</b>
+    <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=F713BD&width=435&lines=My+name+is+Pamela.+I'm+22+years+old;I%E2%80%99m+a+Backend+Cloud+Developer+Intern+;I+study+Information+Systems+at+Uninove" alt="Typing SVG" /></a>
   </samp>
 </div>
 <br>
+     <img align="right"src="https://i.imgur.com/gZYe30v.png" alt="mago negro card" width="260" />
 <div align="center">
   <!-- Status -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pamyydev&theme=jolly" width="250" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pamyydev&theme=jolly" width="200" />
 
   <!-- Top Languages Repo -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pamyydev&theme=jolly" width="250" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pamyydev&theme=jolly" width="200" />
 
   <!-- Top Languages Commits (UTC+8) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pamyydev&theme=jolly" width="250" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pamyydev&theme=jolly" width="200" />
 
   <!-- Profile Details -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pamyydev&theme=jolly" width="509" />
-
-  <!-- Productive Time -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pamyydev&theme=jolly&utcOffset=8" width="250" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pamyydev&theme=jolly" width="610" />
 </div>
+
 
 <br>
 
@@ -57,7 +56,6 @@
 
 <br>
 <br>
-
 <details align="center">  
   <summary>
       <samp>
@@ -67,12 +65,16 @@
   
 <br>
 
-<div align="center">
+
+<div align="center" >
   <samp>
     <b>Contact me:</b>
   </samp>
-  <br>
-  <br>
+<br>
+  
+ 
+
+<br>
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-ff79c6?style=for-the-badge&logo=vercel&logoColor=fff)](https://pamynewportfolio.vercel.app/)
   [![GitHub](https://img.shields.io/badge/GitHub-ff79c6?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/pamyydev)
