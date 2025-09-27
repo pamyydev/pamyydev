@@ -84,12 +84,4 @@
 
 <br>
 
-<div align="center">
-  <p align="center">
-      <img align="center" src="https://capsule-render.vercel.app/api?type=count&color=ff79c6&height=40&section=footer&text=Profile+Visits&fontColor=ffffff&fontAlign=center" />
-  </p> 
-</div>
-
-<br>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=100&section=footer"/>
