@@ -10,16 +10,16 @@
      <img align="right"src="https://i.imgur.com/gZYe30v.png" alt="mago negro card" width="200" />
 <div align="center">
   <!-- Status -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pamyydev&theme=jolly" width="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pamyydev&theme=jolly" width="210" />
 
   <!-- Top Languages Repo -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pamyydev&theme=jolly" width="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pamyydev&theme=jolly" width="210" />
 
   <!-- Top Languages Commits (UTC+8) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pamyydev&theme=jolly" width="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pamyydev&theme=jolly" width="210" />
 
   <!-- Profile Details -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pamyydev&theme=jolly" width="609" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pamyydev&theme=jolly" width="611" />
 </div>
 
 <br>
