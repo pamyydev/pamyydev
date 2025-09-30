@@ -3,7 +3,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Germania+One&size=26&pause=1000&color=9932CC&width=435&lines=My+name+is+Pamela.+I'm+22+years+old;I%E2%80%99m+a+Backend+Cloud+Developer+Intern;I+study+Information+Systems" alt="Typing SVG" /></a>
   </div>
   <br>
-  <img align="right" src="https://imgur.com/rNVU93a.png" alt="card-dragão branco dos olhos azuis" width="207"/>
+  <img align="right" src="https://imgur.com/rNVU93a.png" alt="card-dragão branco dos olhos azuis" width="190"/>
 
   <div align="center">
  <!-- Status -->
