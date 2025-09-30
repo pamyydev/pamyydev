@@ -17,9 +17,6 @@
 
  <!-- Profile Details -->
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pamyydev&theme=jolly" width="615" />
-  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=BA55D3&section=footer"/>
-</div>
 
 <br>
 <div align="center">
@@ -62,3 +59,6 @@
 </div>
 
 <br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=BA55D3&section=footer"/>
+</div>
