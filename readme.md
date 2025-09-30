@@ -3,20 +3,20 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Germania+One&size=26&pause=1000&color=9932CC&width=435&lines=My+name+is+Pamela.+I'm+22+years+old;I%E2%80%99m+a+Backend+Cloud+Developer+Intern;I+study+Information+Systems" alt="Typing SVG" /></a>
   </div>
   <br>
-  <img align="right" src="https://imgur.com/rNVU93a.png" alt="card-dragão branco dos olhos azuis" width="203"/>
+  <img align="right" src="https://imgur.com/rNVU93a.png" alt="card-dragão branco dos olhos azuis" width="207"/>
 
   <div align="center">
  <!-- Status -->
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pamyydev&theme=jolly" width="201" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pamyydev&theme=jolly" width="202" />
 
  <!-- Top Languages Repo -->
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pamyydev&theme=jolly" width="201" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pamyydev&theme=jolly" width="202" />
 
  <!-- Top Languages Commits (UTC+8) -->
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pamyydev&theme=jolly" width="201" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pamyydev&theme=jolly" width="202" />
 
  <!-- Profile Details -->
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pamyydev&theme=jolly" width="615" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pamyydev&theme=jolly" width="616" />
 
 <br>
 <div align="center">
